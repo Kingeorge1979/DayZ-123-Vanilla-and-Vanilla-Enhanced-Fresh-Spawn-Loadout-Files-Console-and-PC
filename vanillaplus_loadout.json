@@ -104,39 +104,6 @@
                     },
                     "quickBarSlot": -1
                 },
-                {
-                    "itemType": "Shirt_BlueCheck",
-                    "spawnWeight": 1,
-                    "attributes": {
-                        "healthMin": 0.9,
-                        "healthMax": 0.99,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                    },
-                    "quickBarSlot": -1
-                },
-                {
-                    "itemType": "Shirt_GreenCheck",
-                    "spawnWeight": 1,
-                    "attributes": {
-                        "healthMin": 0.9,
-                        "healthMax": 0.99,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                    },
-                    "quickBarSlot": -1
-                },
-                {
-                    "itemType": "Shirt_PlaneBlack",
-                    "spawnWeight": 1,
-                    "attributes": {
-                        "healthMin": 0.9,
-                        "healthMax": 0.99,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                    },
-                    "quickBarSlot": -1
-                }                  
             ]
         },
         {
